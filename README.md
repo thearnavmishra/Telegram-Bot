@@ -25,3 +25,12 @@ The bot is deployed on **AWS EC2 inside a secure VPC**, ensuring controlled netw
 ---
 
 ## 🏗 Architecture
+User (Telegram)
+↓
+Telegram Bot API
+↓
+Python Bot Backend
+↓
+AWS EC2 Instance
+↓
+VPC Network Security

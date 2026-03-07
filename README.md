@@ -23,8 +23,9 @@ The bot is deployed on **AWS EC2 inside a secure VPC**, ensuring controlled netw
 - AWS VPC  
 
 ---
-
 ## 🏗 Architecture
+
+```text
 User (Telegram)
     |
     v
@@ -38,7 +39,7 @@ AWS EC2 Instance
     |
     v
 VPC Network Security
----
+```
 
 ## ☁ Deployment
 

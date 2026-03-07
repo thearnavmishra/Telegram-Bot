@@ -34,3 +34,24 @@ Python Bot Backend
 AWS EC2 Instance
 ↓
 VPC Network Security
+
+
+---
+
+## ☁ Deployment
+
+The bot is deployed on an **AWS EC2 instance** configured inside a **Virtual Private Cloud (VPC)**.
+
+This setup provides:
+
+- Secure network isolation  
+- Controlled inbound and outbound traffic  
+- Stable cloud uptime  
+
+---
+
+## 👨‍💻 Author
+
+**Arnav Mishra**
+
+GitHub: https://github.com/thearnavmishra
